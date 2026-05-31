@@ -130,7 +130,8 @@ Open Settings, and search for and access Ignore battery optimization. Touch the 
 
 ### Huawei P9 Plus
 
-* *Phone settings > Apps > Settings > Special access > Ignore battery optimisation >* select allow for your app.
+* *Phone settings > Apps > Settings > Speciذا
+* al access > Ignore battery optimisation >* select allow for your app.
 
 
 ### Huawei Honor 9 Lite, Huawei Mate 9 Pro
